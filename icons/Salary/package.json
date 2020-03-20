@@ -4,6 +4,7 @@
   "main": "dist/icons.salary.cjs.js",
   "module": "dist/icons.salary.es.js",
   "version": "1.13.0",
+  "gitHead": "5e05d638c444651c818138903aef4a68cbbb5747",
   "publishConfig": {
     "access": "public"
   },
